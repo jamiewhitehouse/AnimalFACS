@@ -26,7 +26,10 @@ To become a certified GibbonFACS coder, we encourage you to take the associated 
 
 The test can be accessed here: [GibbonFACS Test materials](https://drive.google.com/drive/folders/1kl7nmuTNW9TM3t5erJjHlWdW3Da1VvJ3?usp=drive_link)
 
-Once completed. Return the completed test of animalfacsuk@gmail.com, along with 1) Your name 2) Your intitution and 3) Your reason for persuing GibbonFACS certification. 
+Once completed. Return the completed test of animalfacsuk@gmail.com, along with 
+1) Your name
+2) Your intitution
+3) Your reason for persuing GibbonFACS certification. 
 
 ## The people behind it
 
