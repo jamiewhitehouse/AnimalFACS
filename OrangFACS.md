@@ -26,7 +26,10 @@ To become a certified OrangFACS coder, we encourage you to take the associated t
 
 The test can be accessed here: [OrangFACS Test materials](https://drive.google.com/drive/folders/1C3i_wLeylxyo1s6BbTn2eEWglau6cetT?usp=drive_link)
 
-Once completed. Return the completed test of animalfacsuk@gmail.com, along with 1) Your name 2) Your intitution and 3) Your reason for persuing MaqFACS certification. 
+Once completed. Return the completed test of animalfacsuk@gmail.com, along with 
+1) Your name
+2) Your intitution
+3) Your reason for persuing OrangFACS certification. 
 
 ## The people behind it
 
