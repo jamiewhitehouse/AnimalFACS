@@ -1,53 +1,58 @@
-# ChimpFACS
-A repository to access ChimpFACS information and documentation
+# DogFACS
+A repository to access DogFACS information and documentation
 
-![ChimpFACS](https://github.com/user-attachments/assets/fac03a53-6275-428c-9f11-ab26a6befc71)
+
+![DogFACS](https://github.com/user-attachments/assets/c06d40df-3e68-4f07-815a-ec56c30f788c)
 
 ### What ChimpFACS is:
-The Chimpanzee Facial Action Coding System (ChimpFACS) is a scientific observational tool for identifying and coding facial movements in chimpanzees. The system is based on the facial anatomy of chimpanzees and has been adapted from the original FACS system used for humans created by Ekman and Friesen (1978). The ChimpFACS manual details how to use the system and code the facial movements of chimpanzees objectively. The manual and certification is freely available (see below). 
+The Chimpanzee Facial Action Coding System (DogFACS) is a scientific observational tool for identifying and coding facial movements in domestic dogs. The system is based on the facial anatomy of dogs and has been adapted from the original FACS system used for humans created by Ekman and Friesen (1978). The DogFACS manual details how to use the system and code the facial movements of dogs objectively. The manual and certification is freely available (see below). 
 
 More info regarding the development of this FACS system can be found here:
 
-[_Parr, L. A., Waller, B. M., Vick, S. J., & Bard, K. A. (2007). Classifying chimpanzee facial expressions using muscle action. Emotion, 7(1), 172._](https://psycnet.apa.org/record/2007-02169-015?doi=1)
+[_Waller, B. M., Peirce, K., Caeiro, C. C., Scheider, L., Burrows, A. M., McCune, S., & Kaminski, J. (2013). Paedomorphic facial expressions give dogs a selective advantage. PLoS one, 8(12), e82686._](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0082686)
 
-### What ChimpFACS isn't:
-ChimpFACS is not an ethogram of facial expressions, and does not make any inference about any underlying emotion or context causing the movement. Instead this is an objective coding scheme with no assumption about what represents a facial expression in this species. It will not explicitally teach you chimpanzee facial expressions
+### What DogFACS isn't:
+DogFACS is not an ethogram of facial expressions, and does not make any inference about any underlying emotion or context causing the movement. Instead this is an objective coding scheme with no assumption about what represents a facial expression in this species. It will not explicitally teach you dog facial expressions
 
 ### Accessing the manual
-The ChimpFACS Manual is freely available via the link below
-[ChimpFACS Manual](https://drive.google.com/file/d/1hqfT1xXDIJcwaYMAvpqArXZEd6kWadrA/view?usp=drive_link)
+The DogFACS Manual is freely available via the link below
+[DogFACS Manual](https://drive.google.com/drive/folders/1y8PJdxIIskmb9rOVW6B_LC1TWgF922iY?usp=drive_link)
 
 The associated training videos can be accessed here.
-[Training/Example Videos](https://drive.google.com/drive/folders/1t3JzFGIAd-fTOmwvlN5EKgVyShqpNF0O?usp=drive_link)
+[Training/Example Videos](https://drive.google.com/drive/folders/1GJ8a81ARV18dCcgstHcdEUxEmyaiPk_m?usp=drive_link)
 
 ## Accessing the test
-To become a certified ChimpFACS coder, we encourage you to take the associated test. The ChimpFACS test involves trainees to accurately code the facial movements in a series of video clips.
+To become a certified DogFACS coder, we encourage you to take the associated test. The DogFACS test involves trainees to accurately code the facial movements in a series of video clips.
 
-The test can be accessed here: [ChimpFACS Test materials](https://drive.google.com/drive/folders/119xFNBKiNswmNucE0fL-EcI2blc8gvN5?usp=drive_link)
+The test can be accessed here: [DogFACS Test materials](https://drive.google.com/drive/folders/1sgKfRdqpqzEj59gS1qyrsRvbZfVoI8Ri?usp=drive_link)
 
 Once completed. Return the completed test of animalfacsuk@gmail.com, along with:
 1) Your name
 2) Your intitution
-3) Your reason for persuing ChimpFACS certification. 
+3) Your reason for persuing DogFACS certification. 
 
 ## The people behind it
 
-ChimpFACS was developed with the support of The Leverhulme Trust. Research Interchange Grant (F/00678/E) “Chimpanzee emotions: Development of a Chimpanzee Facial Action Coding System” was awarded to Kim A. Bard (University of Portsmouth)
+DogFACS was developed thanks to the joint effort of:
 
-ChimpFACS was developed thanks to the joint effort of:
+**Bridget M. Waller**, Department of Psychology, Nottingham Trent University. 
+**Juliane Kaminski**, Centre for Comparative and Evolutionary Psychology, University of Portsmouth
+**Anne M. Burrows**, Department of Physical Therapy, Duquesne University
+**Cátia Caeiro,** School of Psychology, University of Lincoln, UK
+**Kate Peirce,** Centre for Comparative and Evolutionary Psychology, University of Portsmouth 
 
-**Kim A. Bard**, University of Portsmouth
-**Marcia Smith **Pasqualini, Avila University
-**Lisa Parr,** Yerkes National Primate Research Center
-**Bridget M. Waller,** Department of Psychology, Nottingham Trent University. 
-**Sarah-Jane Vick,** Stirling University
 
 ### Acknowledgments
 
-The idea for this project blossomed while Kim A. Bard, Marcia Smith Pasqualini and Lisa Parr attended the conference, ‘Feelings and Emotions: The Amsterdam Symposium’, in May of 2001. With the considerable support of Paul Ekman and Frans de Waal as independent referees, we were successful in obtaining financial support from The Leverhulme Trust. 
+The development of DogFACS was supported by a WALTHAM® Foundation Research Grant to Bridget Waller, Juliane Kaminski and Anne Burrows.
 
-In 2002, Sarah-Jane Vick and Bridget Waller began the process of developing ChimpFACS. Along the way, we received warm and essential support from Paul Ekman, Susanne Kaiser, and Harriet Oster. The anatomical basis for ChimpFACS was made possible by enthusiastic collaborations with Anne Burrows, Andrew Fuglevand and Katalin Gothard , and the Yerkes National Primate Center. The essential images of chimpanzee faces were collected with the generous assistance of Chester Zoo, Samuel Fernandez-Carriba and William D. Hopkins (the Yerkes National Primate Research Center of Emory University, and the Madrid Zoo), Charles Menzel (Language Research Center of Georgia State University) and The Primate Research Institute, Kyoto University. 
+We would like to thank:
 
-In March 2005, with the support of the Centre for the Study of Emotion, and Vasudevi Reddy, Head of Department of Psychology, we held an international conference and workshop to display our accomplishments. Special thanks to Anne Pusey and The Jane Goodall Institute for use of videoarchives of the Gombe Stream chimpanzees. 
+The Max Planck Institute of Evolutionary Anthropology (and all participating dog owners) for allowing us to use their dogs footage, and Katrin Schumann who helped collect footage.
+The shelters for access to film their dogs: Portsmouth City Dog Kennels, Hilsea, UK; RSPCA Southridge Animal Centre, London, UK; Second Chance Animal Rescue, Southampton, UK; The Dog’s Trust, West London, UK; The Welfare of Stray Dogs Animal Shelter, Mumbai, India; Wood Green, The Animal’s Charity, Godmanchester, UK.
+Grace Cannell, Jenny Hynds and Linda Scheider for helpful comments on the manual.
+Inês Martins for drawing anatomical images.
+Alex Komechak, Alissa Zalneraitis, David Lum, Leanne Lanteigne, Michael Woon, Riley Burnham, Shaun Horne, Stuart Blacklock and Yashvin Awootar for permission to use their videos from www.youtube.com.
+The collaborators who helped with the reliability assessment of DogFACS, Jamie Whitehouse and Linda Scheid
 
 
