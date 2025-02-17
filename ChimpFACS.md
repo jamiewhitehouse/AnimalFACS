@@ -8,7 +8,7 @@ The Chimpanzee Facial Action Coding System (ChimpFACS) is a scientific observati
 
 More info regarding the development of this FACS system can be found here:
 
-Parr, L. A., Waller, B. M., Vick, S. J., & Bard, K. A. (2007). Classifying chimpanzee facial expressions using muscle action. Emotion, 7(1), 172.
+[_Parr, L. A., Waller, B. M., Vick, S. J., & Bard, K. A. (2007). Classifying chimpanzee facial expressions using muscle action. Emotion, 7(1), 172._](https://psycnet.apa.org/record/2007-02169-015?doi=1)
 
 ### What ChimpFACS isn't:
 ChimpFACS is not an ethogram of facial expressions, and does not make any inference about any underlying emotion or context causing the movement. Instead this is an objective coding scheme with no assumption about what represents a facial expression in this species. It will not explicitally teach you chimpanzee facial expressions
