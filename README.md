@@ -3,7 +3,7 @@ A repository to access AnimalFACS information and documentation
 
 ![Logo](https://github.com/user-attachments/assets/5a22b62d-674d-462c-aafb-0eb4a4ce0ce7)
 
-<font size="10">What is AnimalFACS? (Facial Action Coding System)</font>
+# What is AnimalFACS? (Facial Action Coding System)
 
 The Animal Facial Action Coding System is an observational scientific tool, allowing for an objective measurement of facial movement in non-human animals, allowing for the analysis of facial behaviour in animals. 
 
