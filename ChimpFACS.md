@@ -14,3 +14,5 @@ Parr, L. A., Waller, B. M., Vick, S. J., & Bard, K. A. (2007). Classifying chimp
 ChimpFACS is not an ethogram of facial expressions, and does not make any inference about any underlying emotion or context causing the movement. Instead this is an objective coding scheme with no assumption about what represents a facial expression in this species. It will not explicitally teach you chimpanzee facial expressions
 
 ### Accessing the manual
+
+[Link Text](https://github.com/username/repository/blob/main/path/to/your/file)
