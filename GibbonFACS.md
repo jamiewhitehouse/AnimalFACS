@@ -9,7 +9,7 @@ The Gibbon Facial Action Coding System (GibbonFACS) is a scientific observationa
 
 More info regarding the development of this FACS system can be found here:
 
-Waller, B. M., Lembeck, M., Kuchenbuch, P., Burrows, A. M., & Liebal, K. (2012). GibbonFACS: a muscle-based facial movement coding system for hylobatids. International Journal of Primatology, 33(4), 809-821.
+[_Waller, B. M., Lembeck, M., Kuchenbuch, P., Burrows, A. M., & Liebal, K. (2012). GibbonFACS: a muscle-based facial movement coding system for hylobatids. International Journal of Primatology, 33(4), 809-821._](https://link.springer.com/article/10.1007/s10764-012-9611-6)
 
 ### What GibbonFACS isn't:
 GibbonFACS is not an ethogram of facial expressions, and does not make any inference about any underlying emotion or context causing the movement. Instead this is an objective coding scheme with no assumption about what represents a facial expression in this species. It will not explicitally teach you chimpanzee facial expressions
