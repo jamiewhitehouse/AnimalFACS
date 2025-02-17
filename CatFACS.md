@@ -1,58 +1,57 @@
 # CatFACS
 A repository to access CatFACS information and documentation
 
-
-![DogFACS](https://github.com/user-attachments/assets/c06d40df-3e68-4f07-815a-ec56c30f788c)
+![CatFACS](https://github.com/user-attachments/assets/c759643a-e41b-4adc-9799-3d5c7d1c02f3)
 
 ### What CatFACS is:
-The Cat Facial Action Coding System (CatFACS) is a scientific observational tool for identifying and coding facial movements in domestic dogs. The system is based on the facial anatomy of dogs and has been adapted from the original FACS system used for humans created by Ekman and Friesen (1978). The DogFACS manual details how to use the system and code the facial movements of dogs objectively. The manual and certification is freely available (see below). 
+The Cat Facial Action Coding System (CatFACS) is a scientific observational tool for identifying and coding facial movements in domestic cats. The system is based on the facial anatomy of cats and has been adapted from the original FACS system used for humans created by Ekman and Friesen (1978). The CatFACS manual details how to use the system and code the facial movements of cats objectively. The manual and certification is freely available (see below). 
 
 More info regarding the development of this FACS system can be found here:
 
-[_Waller, B. M., Peirce, K., Caeiro, C. C., Scheider, L., Burrows, A. M., McCune, S., & Kaminski, J. (2013). Paedomorphic facial expressions give dogs a selective advantage. PLoS one, 8(12), e82686._](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0082686)
+[_Caeiro, Cátia C., Anne M. Burrows, and Bridget M. Waller. "Development and application of CatFACS: Are human cat adopters influenced by cat facial expressions?." Applied Animal Behaviour Science 189 (2017): 66-78._](Caeiro, Cátia C., Anne M. Burrows, and Bridget M. Waller. "Development and application of CatFACS: Are human cat adopters influenced by cat facial expressions?." Applied Animal Behaviour Science 189 (2017): 66-78.)
 
-### What DogFACS isn't:
-DogFACS is not an ethogram of facial expressions, and does not make any inference about any underlying emotion or context causing the movement. Instead this is an objective coding scheme with no assumption about what represents a facial expression in this species. It will not explicitally teach you dog facial expressions
+### What CatFACS isn't:
+CatFACS is not an ethogram of facial expressions, and does not make any inference about any underlying emotion or context causing the movement. Instead this is an objective coding scheme with no assumption about what represents a facial expression in this species. It will not explicitally teach you Cat facial expressions
 
 ### Accessing the manual
-The DogFACS Manual is freely available via the link below
-[DogFACS Manual](https://drive.google.com/drive/folders/1y8PJdxIIskmb9rOVW6B_LC1TWgF922iY?usp=drive_link)
+The CatFACS Manual is freely available via the link below
+[CatFACS Manual](https://drive.google.com/drive/folders/1uO0DXexVg9V62TC3fGBvHkqz84J5lEc1?usp=drive_link)
 
 The associated training videos can be accessed here.
-[Training/Example Videos](https://drive.google.com/drive/folders/1GJ8a81ARV18dCcgstHcdEUxEmyaiPk_m?usp=drive_link)
+[Training/Example Videos](https://drive.google.com/drive/folders/1kbEsIM87f3qAniqSHneGMB-EZ0OMkqzi?usp=drive_link)
 
 ## Accessing the test
-To become a certified DogFACS coder, we encourage you to take the associated test. The DogFACS test involves trainees to accurately code the facial movements in a series of video clips.
+To become a certified CatFACS coder, we encourage you to take the associated test. The CatFACS test involves trainees to accurately code the facial movements in a series of video clips.
 
-The test can be accessed here: [DogFACS Test materials](https://drive.google.com/drive/folders/1sgKfRdqpqzEj59gS1qyrsRvbZfVoI8Ri?usp=drive_link)
+The test can be accessed here: [CatFACS Test materials](https://drive.google.com/drive/folders/1SL33mk3I3etG4hvt0gLydHTaCkvUyRo8?usp=drive_link)
 
 Once completed. Return the completed test of animalfacsuk@gmail.com, along with:
 1) Your name
 2) Your intitution
-3) Your reason for persuing DogFACS certification. 
+3) Your reason for persuing CatFACS certification. 
 
 ## The people behind it
 
-DogFACS was developed thanks to the joint effort of:
+CatFACS was developed thanks to the joint effort of:
 
 **Bridget M. Waller**, Department of Psychology, Nottingham Trent University. 
-**Juliane Kaminski**, Centre for Comparative and Evolutionary Psychology, University of Portsmouth
-**Anne M. Burrows**, Department of Physical Therapy, Duquesne University
+**Anne M. Burrows,** Department of Physical Therapy, Duquesne University
 **Cátia Caeiro,** School of Psychology, University of Lincoln, UK
-**Kate Peirce,** Centre for Comparative and Evolutionary Psychology, University of Portsmouth 
+
 
 
 ### Acknowledgments
 
-The development of DogFACS was supported by a WALTHAM® Foundation Research Grant to Bridget Waller, Juliane Kaminski and Anne Burrows.
-
-We would like to thank:
-
-The Max Planck Institute of Evolutionary Anthropology (and all participating dog owners) for allowing us to use their dogs footage, and Katrin Schumann who helped collect footage.
-The shelters for access to film their dogs: Portsmouth City Dog Kennels, Hilsea, UK; RSPCA Southridge Animal Centre, London, UK; Second Chance Animal Rescue, Southampton, UK; The Dog’s Trust, West London, UK; The Welfare of Stray Dogs Animal Shelter, Mumbai, India; Wood Green, The Animal’s Charity, Godmanchester, UK.
-Grace Cannell, Jenny Hynds and Linda Scheider for helpful comments on the manual.
-Inês Martins for drawing anatomical images.
-Alex Komechak, Alissa Zalneraitis, David Lum, Leanne Lanteigne, Michael Woon, Riley Burnham, Shaun Horne, Stuart Blacklock and Yashvin Awootar for permission to use their videos from www.youtube.com.
-The collaborators who helped with the reliability assessment of DogFACS, Jamie Whitehouse and Linda Scheid
+This work was supported by a Feline Friends Research Donation to Bridget Waller.
 
 
+We would like to thank the following people that contributed to the CatFACS manual production:
+
+Daniel Mills for establishing a collaboration between University of Lincoln and University of Portsmouth for the project development.
+Catarina Ferreira, Daniel Mills, Lauren Finka, Sarah Ellis and Will Higgs (skullsite.co.uk) for the videos and photographs contributions.
+Inês Martins for drawing the anatomical images.
+
+Alison, Andrea Karis, April Turgutalp, Brusspup, Chester Smooshyface, Heliflyer7, Joe Martin, Katia Shifrin (k_shifrin(at)yahoo(dot)com, youtube.com/chikmuka), Kevin Christensen, Larry Graves (youtube.com/canadianstudmuffin), Laura Palmer & Wintermuse, llrnr, Molly Barr of Mythicbells Persian cats and kittens, Patrizia Piotti, Saffy, Hector & Millie, Sean Coonery (youtube.com/irixguy), Sijimi_soupzz, tiffcat.com, youtube.com/100eebiz, youtube.com/dsz, youtube.com/egawauemon1 for permission to use their clips from www.YouTube.com.
+Jennifer Wathan for the reliability assessment coding.
+
+And finally, to Daniel Mills and Jennifer Wathan for helpful comments on previous versions of this manual.
