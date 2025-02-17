@@ -15,4 +15,4 @@ ChimpFACS is not an ethogram of facial expressions, and does not make any infere
 
 ### Accessing the manual
 
-[Example Videos](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/Example%20Clips.zip)
+[Example Videos](https://github.com/jamiewhitehouse/AnimalFACS/blob/ChimpFACSdocs/ExampleClips_ChimpFACS.zip)
