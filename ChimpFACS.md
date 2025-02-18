@@ -37,7 +37,7 @@ ChimpFACS was developed with the support of The Leverhulme Trust. Research Inter
 ChimpFACS was developed thanks to the joint effort of:
 
 **Kim A. Bard**, University of Portsmouth
-**Marcia Smith **Pasqualini, Avila University
+**Marcia Smith** Pasqualini, Avila University
 **Lisa Parr,** Yerkes National Primate Research Center
 **Bridget M. Waller,** Department of Psychology, Nottingham Trent University. 
 **Sarah-Jane Vick,** Stirling University
