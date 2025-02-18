@@ -15,13 +15,13 @@ Each FACS coding scheme has been adapted from the original human-based FACS syst
 
 At present, the FACS system has been adapted to 8 different species. All of which have manuals that are freely accessible. 
 
-#### ChimpFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/ChimpFACS.md) : A FACS system adapted for use with common chimpanzees (pan troglodytes)
-#### MaqFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/MaqFACS.md) : A FACS system adapted for use with rhesus macaques (macaca mulatta)
+#### ChimpFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/ChimpFACS.md) : A FACS system adapted for use with common chimpanzees _(Pan troglodytes)_
+#### MaqFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/MaqFACS.md) : A FACS system adapted for use with rhesus macaques _(Macaca mulatta)_
 #### GibbonFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/GibbonFACS.md) : A FACS system adapted for use with hylobatid species
-#### OrangFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/OrangFACS.md) : A FACS system adapted for use with Orangutans (pongo spp.)
-#### DogFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/DogFACS.md) : A FACS system adapted for use with domestic dog (Canis lupis familiaris)
-#### CatFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/CatFACS.md) : A FACS system adapted for use with cats (Felis catus)
-#### EquiFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/EquiFACS.md) : A FACS system adapted for use with domestic horses (Equus ferus caballus)
+#### OrangFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/OrangFACS.md) : A FACS system adapted for use with Orangutans _(pongo spp.)_
+#### DogFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/DogFACS.md) : A FACS system adapted for use with domestic dog _(Canis lupis familiaris)_
+#### CatFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/CatFACS.md) : A FACS system adapted for use with cats _(Felis catus)_
+#### EquiFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/EquiFACS.md) : A FACS system adapted for use with domestic horses _(Equus ferus caballus)_
 #### CalliFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/CalliFACS.md) : A FACS system adapted for use with marmoset species
 
 
