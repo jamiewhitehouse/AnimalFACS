@@ -32,10 +32,15 @@ Once completed. Return the completed test of animalfacsuk@gmail.com, along with:
 CalliFACS was developed thanks to the effort of:
 
 **Catia Correia-Caeiro** Primate Research Institute, Kyoto University, Inuyama, Japan
+
 **Anne M. Burrows,** Department of Physical Therapy, Duquesne University
+
 **Duncan Andrew Wilson,** Primate Research Institute, Kyoto University, Inuyama, Japan
+
 **Abdelhady Abdelrahman,**School of Health and Life Sciences, Glasgow Caledonian University, Glasgow, United Kingdom
+
 **Takako Miyabe-Nishiwak,** Primate Research Institute, Kyoto University, Inuyama, Japan
+
 
 
 ### Acknowledgments
