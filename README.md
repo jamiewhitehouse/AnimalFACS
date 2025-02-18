@@ -23,7 +23,7 @@ At present, the FACS system has been adapted to 8 different species. All of whic
 #### CatFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/CatFACS.md) : A FACS system adapted for use with cats _(Felis catus)_
 #### EquiFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/EquiFACS.md) : A FACS system adapted for use with domestic horses _(Equus ferus caballus)_
 #### CalliFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/CalliFACS.md) : A FACS system adapted for use with marmoset species
-#### GorillaFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/CalliFACS.md) : A FACS system adapted for use with Gorillas (_Gorilla sp._
+#### GorillaFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/GorillaFACS.md) : A FACS system adapted for use with Gorillas (_Gorilla sp._
 
 
 
