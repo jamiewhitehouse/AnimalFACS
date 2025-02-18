@@ -21,8 +21,8 @@ At present, the FACS system has been adapted to 8 different species. All of whic
 #### OrangFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/OrangFACS.md) : A FACS system adapted for use with Orangutans (pongo spp.)
 #### DogFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/DogFACS.md) : A FACS system adapted for use with domestic dog (Canis lupis familiaris)
 #### CatFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/CatFACS.md) : A FACS system adapted for use with cats (Felis catus)
-#### EquiFACS : A FACS system adapted for use with domestic horses (Equus ferus caballus)
-#### CalliFACS : A FACS system adapted for use with marmoset species
+#### EquiFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/EquiFACS.md) : A FACS system adapted for use with domestic horses (Equus ferus caballus)
+#### CalliFACS [(Access here)](https://github.com/jamiewhitehouse/AnimalFACS/blob/main/CalliFACS.md) : A FACS system adapted for use with marmoset species
 
 
 # How it works?
