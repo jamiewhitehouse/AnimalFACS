@@ -24,7 +24,7 @@ The associated training videos can be accessed here.
 ## Accessing the test
 To become a certified MaqFACS coder, we encourage you to take the associated test. The MaqFACS test involves trainees to accurately code the facial movements in a series of video clips.
 
-The test materials can be accessed here: [MaqFACS Test materials](https://drive.google.com/drive/folders/1ajfZamJL9T8qDiT50RI-FC-hoFUu04LI?usp=drive_link)
+The test materials can be accessed here: [MaqFACS Test materials](https://drive.google.com/drive/folders/1xlcIphqxTckbv1oirb-vFDzL3IvSwFxO?usp=sharing)
 
 PLEASE FILL OUT THE FOLLOWING FORM TO SUBMIT YOUR TEST ANSWERS FOR CERTIFICATION. Note: a Google account is required. 
 
