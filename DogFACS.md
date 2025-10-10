@@ -28,7 +28,7 @@ The test can be accessed here: [DogFACS Test materials](https://drive.google.com
 
 PLEASE FILL OUT THE FOLLOWING FORM TO SUBMIT YOUR TEST ANSWERS FOR CERTIFICATION. Note: a Google account is required. 
 
-[Complete test here]([https://forms.gle/urPVha95SDf92vPy7](https://forms.gle/S5v6nKSH7xdQS3tf8))
+[Complete test here](https://docs.google.com/forms/d/e/1FAIpQLScdYFQPL673CWxhSZTNgHlIsp95YW_wiOwgsLRf-EurpLnymw/viewform?usp=dialog)
 
 ## The people behind it
 
