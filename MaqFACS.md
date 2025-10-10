@@ -28,7 +28,8 @@ The test materials can be accessed here: [MaqFACS Test materials](https://drive.
 
 PLEASE FILL OUT THE FOLLOWING FORM TO SUBMIT YOUR TEST ANSWERS FOR CERTIFICATION. Note: a Google account is required. 
 
-## [Click here to begin certification test](https://docs.google.com/forms/d/e/1FAIpQLSehwjwDvabbHwYwbSnuI0_uV7VQnf5h6lVu7yaObaf3vN4Cwg/viewform?usp=dialog)
+[Click here to begin certification test](https://docs.google.com/forms/d/e/1FAIpQLSehwjwDvabbHwYwbSnuI0_uV7VQnf5h6lVu7yaObaf3vN4Cwg/viewform?usp=dialog)
+
 
 
 ## The people behind it
