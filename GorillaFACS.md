@@ -20,9 +20,8 @@ The GorillaFACS Manual is freely available via the link below
 ## Accessing the test
 To become a certified GorillaFACS coder, we encourage you to take the associated test. The GorillaFACS test involves trainees to accurately code the facial movements in a series of video clips.
 
-The test can be accessed here: please contact _animalfacsuk@gmail.com_ and _catia_caeiro@hotmail.com_ for infomation
+To access the test materials, please contact catia_caeiro@hotmail.com along with the following information:
 
-Once completed. Return the completed test of animalfacsuk@gmail.com, along with:
 1) Your name
 2) Your intitution
 3) Your reason for persuing GorillaFACS certification. 
