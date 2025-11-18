@@ -13,6 +13,9 @@ More info regarding the development of this FACS system can be found here:
 ### What CalliFACS isn't:
 CalliFACS is not an ethogram of facial expressions, and does not make any inference about any underlying emotion or context causing the movement. Instead this is an objective coding scheme with no assumption about what represents a facial expression in this species. It will not explicitally teach you common marmoset facial expressions
 
+### Useage of materials
+Please note, you are not permitted to use any videos provided with the FACS manuals, or test, without written permitted from the owners. Please contact animalfacsuk@gmail.com if you wish to request permissions to use any materials. 
+
 ### Accessing the manual
 The CalliFACS Manual is freely available via the link below
 [CalliFACS Manual](https://drive.google.com/file/d/1RqzB8VBnIu-GwSVAROZRFcn2fLY9pn52/view?usp=drive_link)
