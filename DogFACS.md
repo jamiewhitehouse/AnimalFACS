@@ -4,8 +4,8 @@ A repository to access DogFACS information and documentation
 
 ![DogFACS](https://github.com/user-attachments/assets/c06d40df-3e68-4f07-815a-ec56c30f788c)
 
-### What ChimpFACS is:
-The Chimpanzee Facial Action Coding System (DogFACS) is a scientific observational tool for identifying and coding facial movements in domestic dogs. The system is based on the facial anatomy of dogs and has been adapted from the original FACS system used for humans created by Ekman and Friesen (1978). The DogFACS manual details how to use the system and code the facial movements of dogs objectively. The manual and certification is freely available (see below). 
+### What DogFACS is:
+The Dog Facial Action Coding System (DogFACS) is a scientific observational tool for identifying and coding facial movements in domestic dogs. The system is based on the facial anatomy of dogs and has been adapted from the original FACS system used for humans created by Ekman and Friesen (1978). The DogFACS manual details how to use the system and code the facial movements of dogs objectively. The manual and certification is freely available (see below). 
 
 More info regarding the development of this FACS system can be found here:
 
