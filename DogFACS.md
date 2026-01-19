@@ -19,15 +19,15 @@ Please note, you are not permitted to use any videos provided with the FACS manu
 
 ### Accessing the manual
 The DogFACS Manual is freely available via the link below
-[DogFACS Manual](https://drive.google.com/drive/folders/1y8PJdxIIskmb9rOVW6B_LC1TWgF922iY?usp=drive_link)
+[DogFACS Manual](https://drive.google.com/drive/folders/1y8PJdxIIskmb9rOVW6B_LC1TWgF922iY?usp=sharing)
 
 The associated training videos can be accessed here.
-[Training/Example Videos](https://drive.google.com/drive/folders/1QxA_Ys_IgjbSPH9h3XRkJp-FFQ8P4KEr?usp=drive_link)
+[Training/Example Videos](https://drive.google.com/drive/folders/1GJ8a81ARV18dCcgstHcdEUxEmyaiPk_m?usp=drive_link)
 
 ## Accessing the test
 To become a certified DogFACS coder, we encourage you to take the associated test. The DogFACS test involves trainees to accurately code the facial movements in a series of video clips.
 
-The test can be accessed here: [DogFACS Test materials](https://drive.google.com/drive/folders/1QxA_Ys_IgjbSPH9h3XRkJp-FFQ8P4KEr?usp=drive_link)
+The test can be accessed here: [DogFACS Test materials](https://drive.google.com/drive/folders/1sgKfRdqpqzEj59gS1qyrsRvbZfVoI8Ri?usp=sharing)
 
 PLEASE FILL OUT THE FOLLOWING FORM TO SUBMIT YOUR TEST ANSWERS FOR CERTIFICATION. Note: a Google account is required. 
 
