@@ -13,7 +13,7 @@ Each FACS coding scheme has been adapted from the original human-based FACS syst
 
 # The 9 AnimalFACS systems
 
-At present, the FACS system has been adapted to 8 different species. All of which have manuals that are freely accessible. 
+At present, the FACS system has been adapted to 9 different species. All of which have manuals that are freely accessible. 
 
 #### ChimpFACS [(Access here)](https://jamiewhitehouse.github.io/AnimalFACS/ChimpFACS) : A FACS system adapted for use with common chimpanzees _(Pan troglodytes)_
 #### MaqFACS [(Access here)](https://jamiewhitehouse.github.io/AnimalFACS/MaqFACS) : A FACS system adapted for use with rhesus macaques _(Macaca mulatta)_
