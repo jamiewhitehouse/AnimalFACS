@@ -25,11 +25,11 @@ To become a certified CalliFACS coder, we encourage you to take the associated t
 
 The test can be accessed here: [CalliFACS Test materials](https://drive.google.com/drive/folders/1NA5pRVHTGoFBUfXVsv3pJyqNvB6TzhpK?usp=drive_link)
 
-Please read the enclosed test instructions. Once completely, please contact catia_caeiro@hotmail.com with your completed test sheet, along with the following information:
+Please read the enclosed test instructions. Once completed, please contact catia_caeiro@hotmail.com with your completed test sheet, along with the following information:
 
 1) Your name
 2) Your intitution
-3) Your reason for persuing GorillaFACS certification. 
+3) Your reason for persuing CalliFACS certification. 
 
 
 ## The people behind it
