@@ -11,7 +11,7 @@ By studying FACS you can learn how to identify specific and subtle muscle moveme
 
 Each FACS coding scheme has been adapted from the original human-based FACS system, allowing researchers to directly compare muscle-movements between humans and animals, and between animals of different species. 
 
-# The 8 AnimalFACS systems
+# The 9 AnimalFACS systems
 
 At present, the FACS system has been adapted to 8 different species. All of which have manuals that are freely accessible. 
 
